@@ -1,0 +1,116 @@
+2026-01-08 18:56:08,554 INFO [root] [base.py (__init__:15)]-初始化driver<selenium.webdriver.firefox.webdriver.WebDriver (session="646a2c49-db9f-443c-a7ce-297c4735ba01")>
+2026-01-08 18:56:08,557 INFO [root] [base.py (base_click:31)]-正在点击元素('partial link text', '亲，请登录')
+2026-01-08 18:56:08,557 INFO [root] [base.py (base_find_element:24)]-正在查找元素('partial link text', '亲，请登录')
+2026-01-08 18:56:09,901 INFO [root] [base.py (base_input:36)]-正在输入内容13822223333
+2026-01-08 18:56:09,901 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:56:15,497 INFO [root] [base.py (base_input:36)]-正在输入内容123456
+2026-01-08 18:56:15,497 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:56:19,814 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:56:21,999 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:56:21,999 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:56:22,213 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:56:22,213 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:56:22,564 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 18:56:22,571 INFO [root] [base.py (base_input:36)]-正在输入内容13800003333
+2026-01-08 18:56:22,571 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:56:26,647 INFO [root] [base.py (base_input:36)]-正在输入内容123123
+2026-01-08 18:56:26,648 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:56:30,711 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:56:32,737 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:56:32,737 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:56:33,137 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:56:33,137 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:56:33,337 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 18:57:29,131 INFO [root] [base.py (__init__:15)]-初始化driver<selenium.webdriver.firefox.webdriver.WebDriver (session="6c4844a8-ea9e-43aa-80eb-34ce51171e08")>
+2026-01-08 18:57:29,131 INFO [root] [base.py (base_click:31)]-正在点击元素('partial link text', '亲，请登录')
+2026-01-08 18:57:29,131 INFO [root] [base.py (base_find_element:24)]-正在查找元素('partial link text', '亲，请登录')
+2026-01-08 18:57:31,006 INFO [root] [base.py (base_input:36)]-正在输入内容13822223333
+2026-01-08 18:57:31,006 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:57:35,194 INFO [root] [base.py (base_input:36)]-正在输入内容123456
+2026-01-08 18:57:35,194 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:57:39,522 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:57:41,711 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:57:41,711 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:57:41,940 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:57:41,940 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:57:42,123 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 18:57:42,126 INFO [root] [base.py (base_input:36)]-正在输入内容13800003333
+2026-01-08 18:57:42,126 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:57:46,215 INFO [root] [base.py (base_input:36)]-正在输入内容123123
+2026-01-08 18:57:46,215 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:57:50,292 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:57:52,415 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:57:52,415 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:57:52,699 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:57:52,699 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:57:52,900 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 18:59:00,838 INFO [root] [base.py (__init__:15)]-初始化driver<selenium.webdriver.firefox.webdriver.WebDriver (session="abce25b9-915f-4a0f-9dec-5888494ec0cf")>
+2026-01-08 18:59:00,838 INFO [root] [base.py (base_click:31)]-正在点击元素('partial link text', '亲，请登录')
+2026-01-08 18:59:00,838 INFO [root] [base.py (base_find_element:24)]-正在查找元素('partial link text', '亲，请登录')
+2026-01-08 18:59:03,236 INFO [root] [base.py (base_input:36)]-正在输入内容13822223333
+2026-01-08 18:59:03,236 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:59:07,409 INFO [root] [base.py (base_input:36)]-正在输入内容123456
+2026-01-08 18:59:07,409 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:59:11,684 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:59:13,873 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:59:13,873 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:59:13,981 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:59:13,982 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:59:14,174 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 18:59:14,182 INFO [root] [base.py (base_input:36)]-正在输入内容13800003333
+2026-01-08 18:59:14,182 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 18:59:18,274 INFO [root] [base.py (base_input:36)]-正在输入内容123123
+2026-01-08 18:59:18,274 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 18:59:22,443 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 18:59:24,564 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 18:59:24,564 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 18:59:24,960 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 18:59:24,960 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 18:59:25,293 ERROR [root] [test_login.py (test_login:68)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 19:01:48,324 INFO [root] [base.py (__init__:15)]-初始化driver<selenium.webdriver.firefox.webdriver.WebDriver (session="6100a4a2-6214-40b8-b9c9-8279de20feb5")>
+2026-01-08 19:01:48,324 INFO [root] [base.py (base_click:31)]-正在点击元素('partial link text', '亲，请登录')
+2026-01-08 19:01:48,324 INFO [root] [base.py (base_find_element:24)]-正在查找元素('partial link text', '亲，请登录')
+2026-01-08 19:01:50,440 INFO [root] [base.py (base_input:36)]-正在输入内容13822223333
+2026-01-08 19:01:50,440 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 19:01:54,665 INFO [root] [base.py (base_input:36)]-正在输入内容123456
+2026-01-08 19:01:54,665 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 19:01:58,959 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 19:02:01,146 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 19:02:01,146 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 19:02:01,273 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 19:02:01,274 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 19:02:01,471 ERROR [root] [test_login.py (test_login:66)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
+2026-01-08 19:02:01,481 INFO [root] [base.py (base_input:36)]-正在输入内容13800003333
+2026-01-08 19:02:01,482 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-id')
+2026-01-08 19:02:05,753 INFO [root] [base.py (base_input:36)]-正在输入内容123123
+2026-01-08 19:02:05,753 INFO [root] [base.py (base_find_element:24)]-正在查找元素('id', 'fm-login-password')
+2026-01-08 19:02:09,828 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '#fm-agreement-checkbox')
+2026-01-08 19:02:11,950 INFO [root] [base.py (base_click:31)]-正在点击元素('css selector', '.fm-button')
+2026-01-08 19:02:11,951 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.fm-button')
+2026-01-08 19:02:12,239 INFO [root] [base.py (base_get_text:47)]-正在得到属性('css selector', '.login-error-msg')
+2026-01-08 19:02:12,240 INFO [root] [base.py (base_find_element:24)]-正在查找元素('css selector', '.login-error-msg')
+2026-01-08 19:02:12,415 ERROR [root] [test_login.py (test_login:66)]-'msg' != '账号名或密码不正确'
+- msg
++ 账号名或密码不正确
+
