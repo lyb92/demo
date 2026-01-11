@@ -1,0 +1,10 @@
+s = "abcd abDd abff adff"
+# s.find()
+# print(s.replace("f","*"))
+# print(s.replace("f","*",2))
+# print(s.startswith("abc"))
+# print(s.endswith("f1"))
+# print(s.title())
+print(s.upper())
+# print(s.lower())
+# print(s.center(100, "*"))
